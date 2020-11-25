@@ -645,7 +645,7 @@ p.search-box {
 
 input[type="text"].ui-autocomplete-loading,
 input[type="email"].ui-autocomplete-loading {
-	background-image: url(https://reahayek.github.io/wp-admin/images/loading.gif);
+	background-image: url(https://andreahayek.com/wp-admin/images/loading.gif);
 	background-repeat: no-repeat;
 	background-position: right center;
 	visibility: visible;

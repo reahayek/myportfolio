@@ -86,15 +86,15 @@ $gl-devices-list: (
  */
 @font-face {
   font-family: 'star';
-  src: url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/star.eot");
-  src: url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/star.eot#iefix") format("embedded-opentype"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/star.woff") format("woff"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/star.ttf") format("truetype"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/star.svg#star") format("svg");
+  src: url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/star.eot");
+  src: url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/star.eot#iefix") format("embedded-opentype"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/star.woff") format("woff"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/star.ttf") format("truetype"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/star.svg#star") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'WooCommerce';
-  src: url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.eot");
-  src: url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.eot#iefix") format("embedded-opentype"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.woff") format("woff"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.ttf") format("truetype"), url("https://reahayek.github.io/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.svg#WooCommerce") format("svg");
+  src: url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.eot");
+  src: url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.eot#iefix") format("embedded-opentype"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.woff") format("woff"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.ttf") format("truetype"), url("https://andreahayek.com/wp-content/themes/customify/assets/fonts/WooCommerce/WooCommerce.svg#WooCommerce") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -496,7 +496,7 @@ p.demo_store a,
   margin-top: -0.5em;
   content: '';
   animation: spin 1s ease-in-out infinite;
-  background: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/woocommerce/icons/loader.svg") center center;
+  background: url("https://andreahayek.com/wp-content/themes/customify/assets/images/woocommerce/icons/loader.svg") center center;
   background-size: cover;
   line-height: 1;
   text-align: center;
@@ -514,7 +514,7 @@ p.demo_store a,
   margin-top: -0.5em;
   content: '';
   animation: spin 1s ease-in-out infinite;
-  background: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/woocommerce/icons/loader.svg") center center;
+  background: url("https://andreahayek.com/wp-content/themes/customify/assets/images/woocommerce/icons/loader.svg") center center;
   background-size: cover;
   line-height: 1;
   text-align: center;
@@ -3504,7 +3504,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.visa,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.visa,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.visa {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/visa.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/visa.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.mastercard,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
@@ -3515,7 +3515,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.mastercard,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/mastercard.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/mastercard.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.laser,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.laser,
@@ -3526,7 +3526,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.laser,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.laser,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.laser {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/laser.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/laser.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.dinersclub,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub,
@@ -3537,7 +3537,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.dinersclub,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/diners.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/diners.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.maestro,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.maestro,
@@ -3548,7 +3548,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.maestro,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.maestro,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.maestro {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/maestro.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/maestro.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.jcb,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.jcb,
@@ -3559,7 +3559,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.jcb,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.jcb,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.jcb {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/jcb.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/jcb.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.amex,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.amex,
@@ -3570,7 +3570,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.amex,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.amex,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.amex {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/amex.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/amex.svg");
 }
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-number.discover,
 .woocommerce-cart #payment div.payment_box .wc-credit-card-form-card-expiry.discover,
@@ -3581,7 +3581,7 @@ form.woocommerce-checkout::after {
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-number.discover,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-expiry.discover,
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.discover {
-  background-image: url("https://reahayek.github.io/wp-content/themes/customify/assets/images/icons/credit-cards/discover.svg");
+  background-image: url("https://andreahayek.com/wp-content/themes/customify/assets/images/icons/credit-cards/discover.svg");
 }
 .woocommerce-cart #payment div.payment_box span.help,
 .woocommerce-checkout #payment div.payment_box span.help,

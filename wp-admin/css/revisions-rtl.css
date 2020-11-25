@@ -566,7 +566,7 @@ div.revisions-controls > .wp-slider > .ui-slider-handle {
   (-webkit-min-device-pixel-ratio: 1.25),
   (min-resolution: 120dpi) {
 	.revision-tick.completed-false {
-		background-image: url(https://reahayek.github.io/wp-admin/images/spinner-2x.gif);
+		background-image: url(https://andreahayek.com/wp-admin/images/spinner-2x.gif);
 	}
 }
 
