@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>  Andrea Hayek</title>
+	<atom:link href="http://localhost/Andrea-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://andreahayek.com</link>
+	<description>Graphic Designer</description>
+	<lastBuildDate>Sat, 26 Dec 2020 17:56:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Faafous</title>
+		<link>https://andreahayek.com/faafous/</link>
+					<comments>https://andreahayek.com/faafous/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 17:50:04 +0000</pubDate>
+				<category><![CDATA[Type Design]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=984</guid>
+
+					<description><![CDATA[faafous type design Faafous is a typeface designed as part of the Arabic Type Design Beirut workshop in 2019, lead by Kristyan Sarkis and Lara Captan. This rounded Ruqaa’-based typeface was the result of two weeks of intensive work. Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="984" class="elementor elementor-984" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">faafous</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">type design</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>Faafous</em></strong> is a typeface designed as part of the Arabic Type Design Beirut workshop in 2019, lead by <em>Kristyan Sarkis</em> and <em>Lara Captan</em>. This rounded Ruqaa’-based typeface was the result of two weeks of intensive work.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8311ed5 elementor-widget elementor-widget-image-gallery" data-id="8311ed5" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-2" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-2-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-3" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-3-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-4" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-4-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-5" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-5-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-6" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-6-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-7" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-7-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-8" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-8-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-9" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-9-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-10" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-10-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-11" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-11-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-12" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-12-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8311ed5" data-elementor-lightbox-title="Faafous-13" href='https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Faafous-13-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/faafous/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aziz</title>
+		<link>https://andreahayek.com/aziz/</link>
+					<comments>https://andreahayek.com/aziz/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 17:33:53 +0000</pubDate>
+				<category><![CDATA[Type Design]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=964</guid>
+
+					<description><![CDATA[aziz type design The word Aziz means “Dear” in Arabic. It is also my grandfather’s name, a person with whom I shared my love for Arabic type and the Arabic scripts. This font, being my first Arabic type design project completed during my studies at AUB, was dedicated to him. Aziz is a Naskh-based display&#8230;&#160;<a href="https://andreahayek.com/aziz/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Aziz</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="964" class="elementor elementor-964" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">aziz</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">type design</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>The word <strong><em>Aziz</em></strong> means “Dear” in Arabic. It is also my grandfather’s name, a person with whom I shared my love for Arabic type and the Arabic scripts. This font, being my first Arabic type design project completed during my studies at AUB, was dedicated to him.</p><p><strong><em>Aziz</em></strong> is a Naskh-based display typeface. It’s high contrast and thick baseline make it suitable for headers, titles, posters and other big-scale applications.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-026e2f0 elementor-widget elementor-widget-image-gallery" data-id="026e2f0" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz7" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz7-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz6" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz6-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz5" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz5-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz4" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz4-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz3" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz3-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="026e2f0" data-elementor-lightbox-title="Aziz2" href='https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-scaled.jpg'><img width="2560" height="1810" src="https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-300x212.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-1024x724.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-768x543.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-1536x1086.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Aziz2-2048x1448.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/aziz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dongola Limited Editions</title>
+		<link>https://andreahayek.com/dongola/</link>
+					<comments>https://andreahayek.com/dongola/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 17:19:45 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=947</guid>
+
+					<description><![CDATA[Dongola limited editions Motions Dongola is a Beirut-based publication house that creates art books offering unconventional perspectives on art and contemporary topics in the MENASA region today. The company kickstarted at the end of 2017. Its logo and visual identity were created by Reza Abedini, and the motion graphics below were made to announce the launch&#8230;&#160;<a href="https://andreahayek.com/dongola/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Dongola Limited Editions</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="947" class="elementor elementor-947" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Dongola limited editions</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>Dongola</em></strong> is a Beirut-based publication house that creates art books offering unconventional perspectives on art and contemporary topics in the MENASA region today. The company kickstarted at the end of 2017. Its logo and visual identity were created by Reza Abedini, and the motion graphics below were made to announce the launch of their social media account.<br /><br /><em>Art Direction by Reza Abedini.</em></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-109558d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="109558d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b9eeda elementor-widget elementor-widget-heading" data-id="4b9eeda" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">IDENTITY REVEAL MOTIONS</h3>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-82704e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82704e7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ded859f" data-id="ded859f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-babc747 elementor-widget elementor-widget-image" data-id="babc747" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4" title="" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4761ec0" data-id="4761ec0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-32f5877 elementor-widget elementor-widget-image" data-id="32f5877" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4" title="" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0b2d325" data-id="0b2d325" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1412efd elementor-widget elementor-widget-image" data-id="1412efd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" title="" alt="" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-36c884d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="36c884d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b53aef9 elementor-widget elementor-widget-heading" data-id="b53aef9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">CITIES UNDER QUARANTINE – PROJECT</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-03a30ff elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="03a30ff" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-acbf3ad elementor-widget elementor-widget-heading" data-id="acbf3ad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">sifr – PROJECT</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/dongola/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4" length="871780" type="video/mp4" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4" length="4207308" type="video/mp4" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" length="1279899" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Typoem</title>
+		<link>https://andreahayek.com/typoem/</link>
+					<comments>https://andreahayek.com/typoem/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 17:16:24 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=938</guid>
+
+					<description><![CDATA[typoem Motions Typoem was an Arabic Typography Workshop lead by Reza Abedini, during which the participants had the chance to experiment with Arabic Typography using the Arabic poems of their choice. The artworks produced were later bound into a publication that was launched and sold at the exhibition space Dar El-Nimer. Art direction by Reza&#8230;&#160;<a href="https://andreahayek.com/typoem/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Typoem</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="938" class="elementor elementor-938" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">typoem</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>Typoem</em></strong> was an Arabic Typography Workshop lead by Reza Abedini, during which the participants had the chance to experiment with Arabic Typography using the Arabic poems of their choice. The artworks produced were later bound into a publication that was launched and sold at the exhibition space <em>Dar El-Nimer</em>.<br /><br /><em>Art direction by Reza Abedini</em></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Animation-large.mp4" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/typoem/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Animation-large.mp4" length="1040041" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>The Mediator</title>
+		<link>https://andreahayek.com/the-mediator/</link>
+					<comments>https://andreahayek.com/the-mediator/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 16:58:49 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=929</guid>
+
+					<description><![CDATA[the mediator Motions A title sequence of 47 seconds for a television series based on Meg Cabot’s fictional book The Mediator. The animation is, in parts, done in stop-motion. The diary reflects the main character – a teenager who leads a double life: average high-school girl by day, fighting the dead by night. Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="929" class="elementor elementor-929" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">the mediator</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>A title sequence of 47 seconds for a television series based on Meg Cabot’s fictional book <strong><em>The Mediator</em></strong>. The animation is, in parts, done in stop-motion. The diary reflects the main character – a teenager who leads a double life: average high-school girl by day, fighting the dead by night.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/The-Mediator-Title-Sequence-2.mp4" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/the-mediator/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/The-Mediator-Title-Sequence-2.mp4" length="5483763" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Ident</title>
+		<link>https://andreahayek.com/ident/</link>
+					<comments>https://andreahayek.com/ident/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 16:53:16 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=919</guid>
+
+					<description><![CDATA[ident Motions An ident of 17 seconds that reveals a logo, designed for a conceptual printing press. This animation was done as part of a Motion Graphics course, while completing my BFA is Graphic Design. Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="919" class="elementor elementor-919" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">ident</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>An ident of 17 seconds that reveals a logo, designed for a conceptual printing press. This animation was done as part of a Motion Graphics course, while completing my BFA is Graphic Design.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Ident-Andrea.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/ident/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Ident-Andrea.mov" length="2106812" type="video/quicktime" />
+
+			</item>
+		<item>
+		<title>City Debates 2018</title>
+		<link>https://andreahayek.com/city-debates-2018/</link>
+					<comments>https://andreahayek.com/city-debates-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Sat, 26 Dec 2020 16:48:27 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=909</guid>
+
+					<description><![CDATA[City debates 2018 Motions City Debates is a yearly conference organized by the Masters in Urban Planning &#38; Policy and Masters in Urban Design Programs at the American University of Beirut. City Debates 2018 held the topic of “Architecture-As-Urbanism.”​ Art Direction by Reza Abedini. Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="909" class="elementor elementor-909" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">City debates 2018</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>City Debates</em></strong> is a yearly conference organized by the Masters in Urban Planning &amp; Policy and Masters in Urban Design Programs at the American University of Beirut. <strong><em>City Debates 2018</em></strong> held the topic of “Architecture-As-Urbanism.”​<br /><br /><em>Art Direction by Reza Abedini.</em></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/animation.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/city-debates-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/animation.mov" length="2422005" type="video/quicktime" />
+
+			</item>
+		<item>
+		<title>Silk Road Production</title>
+		<link>https://andreahayek.com/silk-road/</link>
+					<comments>https://andreahayek.com/silk-road/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 16:47:20 +0000</pubDate>
+				<category><![CDATA[Motions]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=881</guid>
+
+					<description><![CDATA[Silk road production Motions Silk Road is a Persian film production house. The logo and visual identity are created by Reza Abedini. The below motions are options for logo openings. Art direction by Reza Abedini persian version english version Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="881" class="elementor elementor-881" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Silk road production</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Motions</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>Silk Road</em></strong> is a Persian film production house. The logo and visual identity are created by Reza Abedini. The below motions are options for logo openings. <br /><br /><em>Art direction by Reza Abedini</em></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-109558d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="109558d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b9eeda elementor-widget elementor-widget-heading" data-id="4b9eeda" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">persian version</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-36c884d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="36c884d" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b53aef9 elementor-widget elementor-widget-heading" data-id="b53aef9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">english version</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8ec2475 elementor-widget elementor-widget-image" data-id="8ec2475" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-86e3c82 elementor-widget elementor-widget-image" data-id="86e3c82" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-22.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c2bde7 elementor-widget elementor-widget-image" data-id="5c2bde7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-33.mov" title="" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/silk-road/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov" length="446173" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov" length="474924" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-22.mov" length="188315" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-33.mov" length="269591" type="video/quicktime" />
+
+			</item>
+		<item>
+		<title>Jules et Jim</title>
+		<link>https://andreahayek.com/jules-et-jim/</link>
+					<comments>https://andreahayek.com/jules-et-jim/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 16:35:34 +0000</pubDate>
+				<category><![CDATA[Posters]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=858</guid>
+
+					<description><![CDATA[Jules et Jim posters An announcement poster for an outdoor screening of the French movie Jules et Jim by Francois Truffaut. The three colors, as well as the interlace of words, create the same atmosphere of bonding formed by the love triangle depicted in the movie.  Facebook Instagram Linkedin]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="858" class="elementor elementor-858" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Jules et Jim</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">posters</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>An announcement poster for an outdoor screening of the French movie Jules et Jim by Francois Truffaut. The three colors, as well as the interlace of words, create the same atmosphere of bonding formed by the love triangle depicted in the movie. </p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a628fe7 elementor-widget elementor-widget-image" data-id="a628fe7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1799" height="2475" src="https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim.jpg 1799w, https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim-218x300.jpg 218w, https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim-744x1024.jpg 744w, https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim-768x1057.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim-1116x1536.jpg 1116w, https://andreahayek.com/wp-content/uploads/2020/12/Jules-et-Jim-1489x2048.jpg 1489w" sizes="(max-width: 1799px) 100vw, 1799px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/jules-et-jim/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Antara</title>
+		<link>https://andreahayek.com/antara/</link>
+					<comments>https://andreahayek.com/antara/#respond</comments>
+		
+		<dc:creator><![CDATA[reahayek]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 16:34:32 +0000</pubDate>
+				<category><![CDATA[Posters]]></category>
+		<guid isPermaLink="false">https://andreahayek.com/?p=853</guid>
+
+					<description><![CDATA[antara posters This country is a furnished apartment or “هذه البلاد شقة مفروشة” is a poem written by the Syrian poet Nizar Qabbani. The poem talks about the ruler of Qabbani’s country, whom he recurrently compares to the fictional character Antara or “عنترة”. This tryptic series of posters experiments with Arabic typography while highlighting the&#8230;&#160;<a href="https://andreahayek.com/antara/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Antara</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="853" class="elementor elementor-853" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2bea2a6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bea2a6d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22a2c968" data-id="22a2c968" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a9ba59c elementor-widget elementor-widget-heading" data-id="a9ba59c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">antara</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-269638b elementor-widget elementor-widget-heading" data-id="269638b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">posters</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a35c57a elementor-widget-divider--separator-type-pattern elementor-widget-divider--no-spacing elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a35c57a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;xMidYMid meet&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 126 26&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M3,10.2c2.6,0,2.6,2,2.6,3.2S4.4,16.5,3,16.5s-3-1.4-3-3.2S0.4,10.2,3,10.2z M18.8,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.2-1.4-3.2-3.2S17,10.2,18.8,10.2z M34.6,10.2c1.5,0,2.6,1.4,2.6,3.2s-0.5,3.2-1.9,3.2c-1.5,0-3.4-1.4-3.4-3.2S33.1,10.2,34.6,10.2z M50.5,10.2c1.7,0,3.2,1.4,3.2,3.2s-1.4,3.2-3.2,3.2c-1.7,0-3.3-0.9-3.3-2.6S48.7,10.2,50.5,10.2z M66.2,10.2c1.5,0,3.4,1.4,3.4,3.2s-1.9,3.2-3.4,3.2c-1.5,0-2.6-0.4-2.6-2.1S64.8,10.2,66.2,10.2z M82.2,10.2c1.7,0.8,2.6,1.4,2.6,3.2s-0.1,3.2-1.6,3.2c-1.5,0-3.7-1.4-3.7-3.2S80.5,9.4,82.2,10.2zM98.6,10.2c1.5,0,2.6,0.4,2.6,2.1s-1.2,4.2-2.6,4.2c-1.5,0-3.7-0.4-3.7-2.1S97.1,10.2,98.6,10.2z M113.4,10.2c1.2,0,2.2,0.9,2.2,3.2s-0.1,3.2-1.3,3.2s-3.1-1.4-3.1-3.2S112.2,10.2,113.4,10.2z&#039;/%3E%3C/svg%3E&quot;);">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-587d78f9 elementor-widget elementor-widget-text-editor" data-id="587d78f9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>This country is a furnished apartment</em></strong> or “هذه البلاد شقة مفروشة” is a poem written by the Syrian poet Nizar Qabbani. The poem talks about the ruler of Qabbani’s country, whom he recurrently compares to the fictional character Antara or “عنترة”. This tryptic series of posters experiments with Arabic typography while highlighting the omnipresence, dictatorially ruling <em>Antara</em> that Qabbani speaks of in this poem.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-926c34b gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="926c34b" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-gallery">
+			
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="926c34b" data-elementor-lightbox-title="Triptic-posters" href='https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-scaled.jpg'><img width="2560" height="1229" src="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-scaled.jpg 2560w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-300x144.jpg 300w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-1024x492.jpg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-768x369.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-1536x737.jpg 1536w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-posters-2048x983.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="926c34b" data-elementor-lightbox-title="Triptic-1" href='https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-scaled.jpg'><img width="1792" height="2560" src="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-scaled.jpg 1792w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-210x300.jpg 210w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-717x1024.jpg 717w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-768x1097.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-1075x1536.jpg 1075w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-1-1433x2048.jpg 1433w" sizes="(max-width: 1792px) 100vw, 1792px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="926c34b" data-elementor-lightbox-title="Triptic-2" href='https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-scaled.jpg'><img width="1792" height="2560" src="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-scaled.jpg 1792w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-210x300.jpg 210w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-717x1024.jpg 717w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-768x1097.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-1075x1536.jpg 1075w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-2-1433x2048.jpg 1433w" sizes="(max-width: 1792px) 100vw, 1792px" /></a>
+<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="926c34b" data-elementor-lightbox-title="Triptic-3" href='https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-scaled.jpg'><img width="1792" height="2560" src="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-scaled.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-scaled.jpg 1792w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-210x300.jpg 210w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-717x1024.jpg 717w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-768x1097.jpg 768w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-1075x1536.jpg 1075w, https://andreahayek.com/wp-content/uploads/2020/12/Triptic-3-1433x2048.jpg 1433w" sizes="(max-width: 1792px) 100vw, 1792px" /></a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4820aa7 elementor-shape-circle elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="4820aa7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-131210a" href="https://www.facebook.com/andrea.hayek/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-74cbd9a" href="https://www.instagram.com/rea_hayek/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-0b7aab1" href="https://www.linkedin.com/in/andreahayek/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://andreahayek.com/antara/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

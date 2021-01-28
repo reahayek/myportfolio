@@ -8,39 +8,36 @@ import GlobalConfigProvider from '../Contexts/GlobalConfigProvider'
 export default { title: 'token/wizard' }
 
 const FakeModalWrapper = ({ children }) => (
-  <div style={{ padding: '40px', backgroundColor: '#fff', borderRadius: '10px', width: '730px', margin: '10px 20px 30px' }}>
+  <div style={{ padding: '40px', backgroundcolor: '#fff', borderradius: '10px', width: '730px', margin: '10px 20px 30px' }}>
     {children}
   </div>
 )
 
 export const wizardSteps = () => (
-  <GlobalConfigProvider config={{
-    elements_token_url: 'https://api.extensions.envato.com/example-token-url'
-  }}
-  >
+  <globalconfigprovider config={{    elements_token_url: 'https:>
     <h1>
       Step 1:
     </h1>
-    <FakeModalWrapper>
-      <Step1Welcome />
-    </FakeModalWrapper>
+    <fakemodalwrapper>
+      <step1welcome />
+    </fakemodalwrapper>
     <h1>
       Step 2:
     </h1>
-    <FakeModalWrapper>
-      <Step2Token />
-    </FakeModalWrapper>
+    <fakemodalwrapper>
+      <step2token />
+    </fakemodalwrapper>
     <h1>
       Step 3:
     </h1>
-    <FakeModalWrapper>
-      <Step3ProjectName />
-    </FakeModalWrapper>
+    <fakemodalwrapper>
+      <step3projectname />
+    </fakemodalwrapper>
     <h1>
       Step 4:
     </h1>
-    <FakeModalWrapper>
-      <Step4Connected />
-    </FakeModalWrapper>
-  </GlobalConfigProvider>
+    <fakemodalwrapper>
+      <step4connected />
+    </fakemodalwrapper>
+  </globalconfigprovider>
 )

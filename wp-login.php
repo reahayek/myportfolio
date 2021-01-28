@@ -96,4 +96,3 @@ var _wpUtilSettings = {"ajax":{"url":"\/Andrea-wordpress\/wp-admin\/admin-ajax.p
 	<div class="clear"></div>
 	</body>
 	</html>
-	
