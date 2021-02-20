@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/Andrea-wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://andreahayek.com</link>
 	<description>Graphic Designer</description>
-	<lastBuildDate>Sat, 26 Dec 2020 17:56:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Feb 2021 18:28:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -282,10 +282,11 @@
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ded859f" data-id="ded859f" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-babc747 elementor-widget elementor-widget-image" data-id="babc747" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-12ffdfd elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="12ffdfd" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4" autoplay="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 						</div>
@@ -294,10 +295,11 @@
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4761ec0" data-id="4761ec0" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-32f5877 elementor-widget elementor-widget-image" data-id="32f5877" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-a99a199 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="a99a199" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4" autoplay="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 						</div>
@@ -306,10 +308,11 @@
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0b2d325" data-id="0b2d325" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1412efd elementor-widget elementor-widget-image" data-id="1412efd" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-element elementor-element-13a1cca elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="13a1cca" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" autoplay="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 						</div>
@@ -330,6 +333,44 @@
 				<div class="elementor-widget-container">
 			<h3 class="elementor-heading-title elementor-size-default">CITIES UNDER QUARANTINE – PROJECT</h3>		</div>
 				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-510244a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="510244a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fca3308" data-id="fca3308" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5bb181c elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="5bb181c" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478439.mp4" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2ac8a90" data-id="2ac8a90" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-547fa47 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="547fa47" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478440.mp4" controls="" controlsList="nodownload" poster="https://andreahayek.com/wp-content/uploads/2020/12/Screen-Shot-2021-02-20-at-8.19.39-PM.png"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c975e17" data-id="c975e17" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
 				<div class="elementor-element elementor-element-03a30ff elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="03a30ff" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
@@ -342,6 +383,89 @@
 				<div class="elementor-widget-container">
 			<h3 class="elementor-heading-title elementor-size-default">sifr – PROJECT</h3>		</div>
 				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9de5244 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9de5244" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0d46ff7" data-id="0d46ff7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4260004 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="4260004" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/A-motion-trial4-withsound.mov" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6deecaf elementor-widget elementor-widget-image" data-id="6deecaf" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="1024" src="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23-1024x1024.jpeg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23-300x300.jpeg 300w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23-150x150.jpeg 150w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23-768x768.jpeg 768w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.23.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9c1c263 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="9c1c263" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/E-motion-trial5-withsound.mov" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ecae86f" data-id="ecae86f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e8ef8a0 elementor-widget elementor-widget-image" data-id="e8ef8a0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="1024" src="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27-1024x1024.jpeg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27-300x300.jpeg 300w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27-150x150.jpeg 150w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27-768x768.jpeg 768w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.27.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a5c6bf3 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="a5c6bf3" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478441.mp4" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-96dc60d elementor-widget elementor-widget-image" data-id="96dc60d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="1024" src="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25-1024x1024.jpeg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25-300x300.jpeg 300w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25-150x150.jpeg 150w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25-768x768.jpeg 768w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.25.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-04dbbff" data-id="04dbbff" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a48ce60 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="a48ce60" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/C-motion-trial4-withsound.mov" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6978f8f elementor-widget elementor-widget-image" data-id="6978f8f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="1024" src="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20-1024x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20-1024x1024.jpeg 1024w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20-300x300.jpeg 300w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20-150x150.jpeg 150w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20-768x768.jpeg 768w, https://andreahayek.com/wp-content/uploads/2020/12/photo_2021-02-20-20.17.20.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-46fd1cc elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="46fd1cc" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/F-motion-trial4-withsound.mp4" controls="" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
 				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
@@ -384,9 +508,13 @@
 					<wfw:commentRss>https://andreahayek.com/dongola/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4" length="871780" type="video/mp4" />
-<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4" length="4207308" type="video/mp4" />
-<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" length="1279899" type="video/mp4" />
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Letters.mp4http://https://andreahayek.com/wp-content/uploads/2020/12/Making-of-logo_1.mp4http://https://andreahayek.com/wp-content/uploads/2020/12/Pattern.mp4" length="0" type="video/mp4" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478439.mp4http://https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478440.mp4" length="0" type="video/mp4" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/A-motion-trial4-withsound.mov" length="6421364" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/E-motion-trial5-withsound.mov" length="8246120" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/telegram-cloud-document-4-5875303759558478441.mp4" length="1316052" type="video/mp4" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/C-motion-trial4-withsound.mov" length="6359881" type="video/quicktime" />
+<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/F-motion-trial4-withsound.mp4" length="3300939" type="video/mp4" />
 
 			</item>
 		<item>
@@ -430,10 +558,11 @@
 					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>Typoem</em></strong> was an Arabic Typography Workshop lead by Reza Abedini, during which the participants had the chance to experiment with Arabic Typography using the Arabic poems of their choice. The artworks produced were later bound into a publication that was launched and sold at the exhibition space <em>Dar El-Nimer</em>.<br /><br /><em>Art direction by Reza Abedini</em></p></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-612f1a0 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="612f1a0" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Animation-large.mp4" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Animation-large.mp4" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
@@ -491,7 +620,7 @@
 				<category><![CDATA[Motions]]></category>
 		<guid isPermaLink="false">https://andreahayek.com/?p=929</guid>
 
-					<description><![CDATA[the mediator Motions A title sequence of 47 seconds for a television series based on Meg Cabot’s fictional book The Mediator. The animation is, in parts, done in stop-motion. The diary reflects the main character – a teenager who leads a double life: average high-school girl by day, fighting the dead by night. Facebook Instagram Linkedin]]></description>
+					<description><![CDATA[the mediator Motions A title sequence of 47 seconds for a television series based on Meg Cabot’s fictional book The Mediator. The animation is, in parts, done in stop-motion. The diary reflects the main character – a teenager who leads a double life: average high-school girl by day, fighting the dead by night. https://andreahayek.com/wp-content/uploads/2020/12/The-Mediator-Title-Sequence-2.mp4 Facebook Instagram&#8230;&#160;<a href="https://andreahayek.com/the-mediator/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">The Mediator</span></a>]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="929" class="elementor elementor-929" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -522,10 +651,11 @@
 					<div class="elementor-text-editor elementor-clearfix"><p>A title sequence of 47 seconds for a television series based on Meg Cabot’s fictional book <strong><em>The Mediator</em></strong>. The animation is, in parts, done in stop-motion. The diary reflects the main character – a teenager who leads a double life: average high-school girl by day, fighting the dead by night.</p></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-74e6c61 elementor-aspect-ratio-32 elementor-widget elementor-widget-video" data-id="74e6c61" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;32&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/The-Mediator-Title-Sequence-2.mp4" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/The-Mediator-Title-Sequence-2.mp4" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
@@ -583,7 +713,7 @@
 				<category><![CDATA[Motions]]></category>
 		<guid isPermaLink="false">https://andreahayek.com/?p=919</guid>
 
-					<description><![CDATA[ident Motions An ident of 17 seconds that reveals a logo, designed for a conceptual printing press. This animation was done as part of a Motion Graphics course, while completing my BFA is Graphic Design. Facebook Instagram Linkedin]]></description>
+					<description><![CDATA[ident Motions An ident of 17 seconds that reveals a logo, designed for a conceptual printing press. This animation was done as part of a Motion Graphics course, while completing my BFA is Graphic Design. https://andreahayek.com/wp-content/uploads/2020/12/IDENT.mp4 Facebook Instagram Linkedin]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="919" class="elementor elementor-919" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -614,13 +744,14 @@
 					<div class="elementor-text-editor elementor-clearfix"><p>An ident of 17 seconds that reveals a logo, designed for a conceptual printing press. This animation was done as part of a Motion Graphics course, while completing my BFA is Graphic Design.</p></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-82b663f elementor-aspect-ratio-32 elementor-widget elementor-widget-video" data-id="82b663f" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;32&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Ident-Andrea.mov" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/IDENT.mp4" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
+				</div>
+				<div class="elementor-element elementor-element-856a8f8 elementor-widget elementor-widget-spacer" data-id="856a8f8" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
@@ -662,7 +793,7 @@
 					<wfw:commentRss>https://andreahayek.com/ident/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Ident-Andrea.mov" length="2106812" type="video/quicktime" />
+		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/IDENT.mp4" length="2970882" type="video/mp4" />
 
 			</item>
 		<item>
@@ -675,7 +806,7 @@
 				<category><![CDATA[Motions]]></category>
 		<guid isPermaLink="false">https://andreahayek.com/?p=909</guid>
 
-					<description><![CDATA[City debates 2018 Motions City Debates is a yearly conference organized by the Masters in Urban Planning &#38; Policy and Masters in Urban Design Programs at the American University of Beirut. City Debates 2018 held the topic of “Architecture-As-Urbanism.”​ Art Direction by Reza Abedini. Facebook Instagram Linkedin]]></description>
+					<description><![CDATA[City debates 2018 Motions City Debates is a yearly conference organized by the Masters in Urban Planning &#38; Policy and Masters in Urban Design Programs at the American University of Beirut. City Debates 2018 held the topic of “Architecture-As-Urbanism.”​ Art Direction by Reza Abedini. https://andreahayek.com/wp-content/uploads/2020/12/animation.mov Facebook Instagram Linkedin]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="909" class="elementor elementor-909" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -706,10 +837,11 @@
 					<div class="elementor-text-editor elementor-clearfix"><p><strong><em>City Debates</em></strong> is a yearly conference organized by the Masters in Urban Planning &amp; Policy and Masters in Urban Design Programs at the American University of Beirut. <strong><em>City Debates 2018</em></strong> held the topic of “Architecture-As-Urbanism.”​<br /><br /><em>Art Direction by Reza Abedini.</em></p></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-62be519 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="62be519" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;11&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/animation.mov" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/animation.mov" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
@@ -767,7 +899,7 @@
 				<category><![CDATA[Motions]]></category>
 		<guid isPermaLink="false">https://andreahayek.com/?p=881</guid>
 
-					<description><![CDATA[Silk road production Motions Silk Road is a Persian film production house. The logo and visual identity are created by Reza Abedini. The below motions are options for logo openings. Art direction by Reza Abedini persian version english version Facebook Instagram Linkedin]]></description>
+					<description><![CDATA[Silk road production Motions Silk Road is a Persian film production house. The logo and visual identity are created by Reza Abedini. The below motions are options for logo openings. Art direction by Reza Abedini english version https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov persian version https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov Facebook Instagram Linkedin]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="881" class="elementor elementor-881" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -806,14 +938,15 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-4b9eeda elementor-widget elementor-widget-heading" data-id="4b9eeda" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-b53aef9 elementor-widget elementor-widget-heading" data-id="b53aef9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">persian version</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">english version</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-c72c76a elementor-widget elementor-widget-image" data-id="c72c76a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-416c89c elementor-aspect-ratio-32 elementor-widget elementor-widget-video" data-id="416c89c" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;32&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
+				</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-36c884d elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="36c884d" data-element_type="widget" data-widget_type="divider.default">
@@ -824,26 +957,15 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-b53aef9 elementor-widget elementor-widget-heading" data-id="b53aef9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-4b9eeda elementor-widget elementor-widget-heading" data-id="4b9eeda" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">english version</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">persian version</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-8ec2475 elementor-widget elementor-widget-image" data-id="8ec2475" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-2fb1460 elementor-aspect-ratio-32 elementor-widget elementor-widget-video" data-id="2fb1460" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;32&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov" title="" alt="" />											</div>
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov" autoplay="" loop="" controls="" playsinline="" controlsList="nodownload"></video>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-86e3c82 elementor-widget elementor-widget-image" data-id="86e3c82" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-22.mov" title="" alt="" />											</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5c2bde7 elementor-widget elementor-widget-image" data-id="5c2bde7" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img src="https://andreahayek.com/wp-content/uploads/2020/12/Motion-33.mov" title="" alt="" />											</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-b894787 elementor-widget elementor-widget-spacer" data-id="b894787" data-element_type="widget" data-widget_type="spacer.default">
@@ -890,8 +1012,6 @@
 		
 		<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1-persian-2.mov" length="446173" type="video/quicktime" />
 <enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-1soundd-1.mov" length="474924" type="video/quicktime" />
-<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-22.mov" length="188315" type="video/quicktime" />
-<enclosure url="https://andreahayek.com/wp-content/uploads/2020/12/Motion-33.mov" length="269591" type="video/quicktime" />
 
 			</item>
 		<item>
